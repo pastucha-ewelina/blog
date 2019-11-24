@@ -1,0 +1,56 @@
+*body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-link, .page-link{
+    color: #000;
+}
+
+.slider{
+   padding-bottom: 5%; 
+}
+
+.name{
+    text-align: center;
+    padding-bottom: 5%; 
+}
+
+.posts{
+    padding: 0 10% 5% 10%;
+}
+
+.col-sm-6, .card{
+    padding: 2%;
+}
+
+.card-title{
+    padding-top: 2%;
+}
+
+.pagination{
+    padding: 2% 0%;
+}
+
+.display-4{
+    font-style: italic;
+    padding-bottom: 2%;
+}
+
+.profils{
+    padding: 2% 20%;
+}
+
+.picshe{
+    float: right;
+}
+
+.forms{
+    padding: 5% 30%;
+}
+
+.forms label, .card-header{
+    padding-left: 5%;
+}
+
